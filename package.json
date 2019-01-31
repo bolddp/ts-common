@@ -1,0 +1,10 @@
+{
+  "name": "typescript-npm-referable",
+  "version": "1.0.0",
+  "description": "Demo skeleton for project referable by NPM",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {},
+  "author": "Daniel Persson",
+  "license": "MIT"
+}
