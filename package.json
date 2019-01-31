@@ -1,7 +1,7 @@
 {
-  "name": "typescript-npm-referable",
+  "name": "ts-common",
   "version": "1.0.0",
-  "description": "Demo skeleton for project referable by NPM",
+  "description": "Common functionality",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {},
