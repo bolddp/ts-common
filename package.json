@@ -4,9 +4,10 @@
   "description": "Common functionality",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
-  "scripts": {
-
-  },
+  "scripts": {},
   "author": "Daniel Persson",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^11.13.4"
+  }
 }
